@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.workshop.evolutiongame.GameTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-10-15T10:32:28" hostname="INviswajeetkumars-MacBook-Pro.local" time="0.008">
+  <properties/>
+  <testcase name="shouldReturnScoreForMultipleRounds" classname="com.workshop.evolutiongame.GameTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
